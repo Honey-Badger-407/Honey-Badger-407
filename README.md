@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Honey-Badger-407
-- 👀 I’m interested in data science and game dev
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: doesn't matter
-- ⚡ Fun fact: ...
+👋 Hi, I’m @Honey-Badger-407
 
-<!---
-Honey-Badger-407/Honey-Badger-407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎮 I’m a Unity game developer focused on gameplay systems, UI logic, and state-driven mechanics using C#.
+
+🧠 Interests:
+- Game development (2D / 2.5D / 3D)
+- Gameplay programming & game logic
+- Interactive systems and player feedback
+
+🌱 Currently learning:
+- Unity workflows (sprites, Rigidbody2D, Animator, UI)
+- Blender
+- Game state management and clean C# architecture
+
+🛠 Tech Stack:
+- Unity Engine
+- C#
+- Git & GitHub
+- Blender (basic)
+
+🤝 Open to:
+- Game development internships
+- Collaborative Unity projects
+- Learning-driven teams
+
+📫 Reach me:
+- Email: kartikeychoudhary@proton.me
+- LinkedIn: 
